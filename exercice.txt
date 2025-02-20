@@ -1,1 +1,2 @@
 enonce de exo
+on considere un eleve avec un nom et une note
